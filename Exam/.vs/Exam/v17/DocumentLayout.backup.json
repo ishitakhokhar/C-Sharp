@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Programs\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|d:\\asp.net\\programs\\exam\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|solutionrelative:word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|d:\\asp.net\\programs\\exam\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|d:\\asp.net\\programs\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|d:\\asp.net\\programs\\exam\\armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|solutionrelative:armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|d:\\asp.net\\programs\\exam\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BC534-7093-43C6-B5FE-60EC4E362B17}|Exam.csproj|solutionrelative:area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Exam\\Word.cs",
+              "RelativeDocumentMoniker": "Word.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Exam\\Word.cs",
+              "RelativeToolTip": "Word.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:42:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Exam\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Exam\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:34:56.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Armstrong.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Exam\\Armstrong.cs",
+              "RelativeDocumentMoniker": "Armstrong.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Exam\\Armstrong.cs",
+              "RelativeToolTip": "Armstrong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:34:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:33:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Exam\\Area.cs",
+              "RelativeDocumentMoniker": "Area.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Exam\\Area.cs",
+              "RelativeToolTip": "Area.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:32:43.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

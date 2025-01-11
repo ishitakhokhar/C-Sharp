@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Programs\\Lab-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\indexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:indexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\changecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:changecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\stringmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:stringmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\longestword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:longestword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\divisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:divisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\throwexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:throwexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|d:\\asp.net\\programs\\lab-4\\sum.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10125DE4-595C-4053-8AF1-A16932B0FE5D}|Lab-4.csproj|solutionrelative:sum.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LongestWord.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\LongestWord.cs",
+              "RelativeDocumentMoniker": "LongestWord.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\LongestWord.cs",
+              "RelativeToolTip": "LongestWord.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:44:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringMethod.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\StringMethod.cs",
+              "RelativeDocumentMoniker": "StringMethod.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\StringMethod.cs",
+              "RelativeToolTip": "StringMethod.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:23:18.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:09:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DivisionHandler.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\DivisionHandler.cs",
+              "RelativeDocumentMoniker": "DivisionHandler.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\DivisionHandler.cs",
+              "RelativeToolTip": "DivisionHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:59:23.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexException.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\IndexException.cs",
+              "RelativeDocumentMoniker": "IndexException.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\IndexException.cs",
+              "RelativeToolTip": "IndexException.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:23:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeCase.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\ChangeCase.cs",
+              "RelativeDocumentMoniker": "ChangeCase.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\ChangeCase.cs",
+              "RelativeToolTip": "ChangeCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:22:53.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:17:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA4wFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:14:02.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThrowException.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\ThrowException.cs",
+              "RelativeDocumentMoniker": "ThrowException.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\ThrowException.cs",
+              "RelativeToolTip": "ThrowException.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:36:58.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sum.cs.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-4\\Sum.cs.cs",
+              "RelativeDocumentMoniker": "Sum.cs.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-4\\Sum.cs.cs",
+              "RelativeToolTip": "Sum.cs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:51:54.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

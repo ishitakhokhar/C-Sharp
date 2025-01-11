@@ -1,0 +1,14 @@
+D:\ASP.NET\Programs\Exam\bin\Debug\net8.0\Exam.exe
+D:\ASP.NET\Programs\Exam\bin\Debug\net8.0\Exam.deps.json
+D:\ASP.NET\Programs\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+D:\ASP.NET\Programs\Exam\bin\Debug\net8.0\Exam.dll
+D:\ASP.NET\Programs\Exam\bin\Debug\net8.0\Exam.pdb
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.dll
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\refint\Exam.dll
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.pdb
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+D:\ASP.NET\Programs\Exam\obj\Debug\net8.0\ref\Exam.dll

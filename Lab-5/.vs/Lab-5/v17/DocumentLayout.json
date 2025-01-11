@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Programs\\Lab-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\trafficsignal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:trafficsignal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\areaofcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:areaofcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|d:\\asp.net\\programs\\lab-5\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4A9079-71C5-4969-A05D-D7DC3B5CF7E8}|Lab-5.csproj|solutionrelative:area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrafficSignal.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\TrafficSignal.cs",
+              "RelativeDocumentMoniker": "TrafficSignal.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\TrafficSignal.cs",
+              "RelativeToolTip": "TrafficSignal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:34:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:21:39.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:07:25.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RBI.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\RBI.cs",
+              "RelativeDocumentMoniker": "RBI.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\RBI.cs",
+              "RelativeToolTip": "RBI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:54:38.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AreaOfCircle.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\AreaOfCircle.cs",
+              "RelativeDocumentMoniker": "AreaOfCircle.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\AreaOfCircle.cs",
+              "RelativeToolTip": "AreaOfCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:48:13.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\Area.cs",
+              "RelativeDocumentMoniker": "Area.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\Area.cs",
+              "RelativeToolTip": "Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:39:18.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:53:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sum.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Programs\\Lab-5\\Sum.cs",
+              "RelativeDocumentMoniker": "Sum.cs",
+              "ToolTip": "D:\\ASP.NET\\Programs\\Lab-5\\Sum.cs",
+              "RelativeToolTip": "Sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:24:37.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
